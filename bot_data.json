@@ -1,0 +1,307 @@
+{
+  "ticketChannels": {
+    "1391194166935031908": "1391194168142987408"
+  },
+  "ticketOptions": {
+    "1391194166935031908": [
+      {
+        "id": "ticket_1774465741564",
+        "label": "Suporte",
+        "description": "Suporte para utilização de softare ou erros.",
+        "emoji": "🎫"
+      },
+      {
+        "id": "ticket_1774465751185",
+        "label": "Revenda",
+        "description": "Revender nossos produtos.",
+        "emoji": "🎫"
+      },
+      {
+        "id": "ticket_1774471180582",
+        "label": "Compras",
+        "description": "Dúvidas sobre compras.",
+        "emoji": "🎫"
+      }
+    ]
+  },
+  "staffRoles": {
+    "1391194166935031908": [
+      "841457100755566602"
+    ]
+  },
+  "ticketMessages": {
+    "1391194166935031908": {
+      "description": "Seja bem-vindo(a) ao sistema de atendimento da Radiant Store\nDe segunda a sábado das 7h as 23h\nDomingo e feriado: sem horario determinado",
+      "title": "Atendimento Radiant Store"
+    }
+  },
+  "defaultTicketChannels": {
+    "1391194166935031908": "1455956301275205873"
+  },
+  "ticketVisuals": {
+    "1391194166935031908": {
+      "imageUrl": "https://i.imgur.com/e6APEN2.gif",
+      "color": "#FFFFFF",
+      "footer": "Radiant Store｜ B O T © 2025 - 2026"
+    }
+  },
+  "transcriptChannels": {
+    "1391194166935031908": "1391194168142987411"
+  },
+  "products": {
+    "1391194166935031908": [
+      {
+        "id": "product_1774552722319",
+        "name": "Aimbot Elevate",
+        "description": "Aimbot\n```\n[+] Campo de visão personalizado X,Y\n[+] Velocidade personalizada\n[+] Atalhos de teclado personalizados\n[+] Offset personalizados X,Y\n```\nTrigger Bot\n```\n[+] Tempo de recarga personalizado\n[+] Velocidade de disparo personalizada\n[+] Atalhos de teclado personalizados\n```\nCompatibilidade\n```\n[+] HVCI ON(Isolamento de nucleo)\n[+] Todas as placas-mãe são compatíveis\n[+] Todas as CPUs são compatíveis\n[+] Todas as versões do Windows são compatíveis (10/11)\n```",
+        "imageUrl": "https://i.imgur.com/wOzNlYl.jpeg",
+        "createdAt": "2026-03-26T19:18:42.319Z",
+        "footer": "Radiant Store｜ B O T © 2025 - 2026",
+        "updatedAt": "2026-03-28T21:41:56.611Z",
+        "bannerUrl": "https://i.imgur.com/lodsYd5.gif"
+      },
+      {
+        "id": "product_1774657836610",
+        "name": "External Elevate",
+        "description": "Aimbot\n```\n[+] Suavização Personalizada\n[+] Campo de Visão Personalizado\n[+] Velocidade Personalizada\n[+] Atalhos de Teclado Personalizados\n```\nVisuais do Jogador\n```\n[+] Caixa Personalizada (2D/Caixa de Canto)\n[+] Barra de Vida\n[+] Esqueleto\n[+] Linhas de Ajuste\n[+] Distância\n```\nCompatibilidade\n```\n[+] Suporte para HVCI ATIVADO\n[+] Todas as placas-mãe são compatíveis\n[+] Todas as CPUs são compatíveis\n[+] Todas as versões do Windows são compatíveis\n```",
+        "imageUrl": "https://i.imgur.com/qOPJzcZ.jpeg",
+        "bannerUrl": "https://i.imgur.com/POlPFgO.gif",
+        "footer": "Radiant Store｜ B O T © 2025 - 2026",
+        "createdAt": "2026-03-28T00:30:36.610Z",
+        "updatedAt": "2026-03-28T21:42:22.442Z"
+      },
+      {
+        "id": "product_1774732210136",
+        "name": "Spoofer + Bypass TPM",
+        "description": "Spoofing\n```\n[+] Placa-mãe\n[+] Discos\n[+] BIOS\n[+] MAC\n[+] Windows\n[+] GUID\n[+] ID do Volume\n[+] Drivers USB\n```\nJogos suportados\n```\nEAC\nBattleEye\nVAC\nRicochet\nVanguard\nRiot Vanguard\n```\nCompatibilidade\n```\n[+] ASUS\n[+] GIGABYTE\n[+] ASROCK, BIOSTAR\n[+] MSI/MSI PRO\n[+] DELL\n[+] ALIENWARE",
+        "imageUrl": "https://i.imgur.com/jRcGvKJ.jpeg",
+        "bannerUrl": "https://i.imgur.com/R2MmxpR.mp4",
+        "footer": "Radiant Store｜ B O T © 2025 - 2026",
+        "createdAt": "2026-03-28T21:10:10.136Z"
+      },
+      {
+        "id": "product_1774733929329",
+        "name": "Emulador VGK",
+        "description": "Funciona para \n```\n[+] Valorant\n[+] League of Legends\n```\nFunções\n```\n[+] SEM TPM\n[+] SEM HVCI\n[+] SEM inicialização segura\n[+] Anti-Detecção\n[+] Emulador de Heartbeat \n```\nVantagens\n```\n[+] Não precisa reinstalar o Windows\n[+] Não precisa desinstalar o jogo\n[+] Não precisa desinstalar o Vanguard\n[+] Não é necessário spoofar/ jogue com 152 pois o vanguard está totalmente excluido do seu computador\n```\nCompatibilidade\n```\n[+] Windows 10/11\n```",
+        "imageUrl": "https://i.imgur.com/XO6SpJs.jpeg",
+        "bannerUrl": "https://i.imgur.com/XfbG4YE.mp4",
+        "footer": "Radiant Store｜ B O T © 2025 - 2026",
+        "createdAt": "2026-03-28T21:38:49.329Z"
+      },
+      {
+        "id": "product_1774734100951",
+        "name": "Internal Elevate",
+        "description": "Aimbot\n```\n[+] Suavização Personalizada\n[+] Campo de Visão Personalizado\n[+] Velocidade Personalizada\n[+] Atalhos Personalizados\n[+] Mira Silenciosa\n[+] Anti-Mira\n[+] Sem Recuo\n```\nVisuais do Jogador\n```\n[+] Caixa Personalizada (2D/Caixa de Canto)\n[+] Barra de Vida\n[+] Esqueleto\n[+] Linhas de Ajuste\n[+] Distância\n```\nMISC\n```\n[+] Alterador de Campo de Visão\n[+] Chams\n[+] Skin changer/Unlock All e chaveiros\n```\nCompatibilidade\n```\n[+] Todas as placas-mãe são compatíveis\n[+] Todas as CPUs são compatíveis\n[+] Todas as versões do Windows são compatíveis\n```\n**Necessário ter algum VGK Emulator para funcionar**",
+        "imageUrl": "https://i.imgur.com/jeYMfDB.jpeg",
+        "bannerUrl": "https://i.imgur.com/XfbG4YE.mp4",
+        "footer": "Radiant Store｜ B O T © 2025 - 2026",
+        "createdAt": "2026-03-28T21:41:40.951Z"
+      }
+    ]
+  },
+  "productPlans": {
+    "1391194166935031908": {
+      "product_1774552722319": [
+        {
+          "name": "Diario",
+          "price": 15,
+          "createdAt": "2026-03-26T19:19:21.809Z",
+          "updatedAt": "2026-03-28T20:43:00.849Z"
+        },
+        {
+          "name": "Semanal",
+          "price": 50,
+          "createdAt": "2026-03-26T19:19:56.714Z"
+        },
+        {
+          "name": "Mensal",
+          "price": 80,
+          "createdAt": "2026-03-26T19:20:07.823Z"
+        },
+        {
+          "name": "Lifetime",
+          "price": 250,
+          "createdAt": "2026-03-28T20:42:52.434Z"
+        }
+      ],
+      "product_1774657836610": [
+        {
+          "name": "Diario",
+          "price": 30,
+          "createdAt": "2026-03-28T00:31:03.438Z",
+          "updatedAt": "2026-03-28T21:54:45.162Z"
+        },
+        {
+          "name": "Semanal",
+          "price": 65,
+          "createdAt": "2026-03-28T00:31:16.870Z"
+        },
+        {
+          "name": "Mensal",
+          "price": 100,
+          "createdAt": "2026-03-28T00:31:26.601Z"
+        },
+        {
+          "name": "Lifetime",
+          "price": 350,
+          "createdAt": "2026-03-28T00:31:39.440Z"
+        }
+      ],
+      "product_1774732210136": [
+        {
+          "name": "Diario",
+          "price": 55,
+          "createdAt": "2026-03-28T21:49:49.887Z"
+        },
+        {
+          "name": "Lifetime",
+          "price": 150,
+          "createdAt": "2026-03-28T21:50:10.250Z"
+        }
+      ],
+      "product_1774733929329": [
+        {
+          "name": "Semanal",
+          "price": 280,
+          "createdAt": "2026-03-28T21:53:02.023Z"
+        },
+        {
+          "name": "Mensal",
+          "price": 480,
+          "createdAt": "2026-03-28T21:53:09.151Z"
+        },
+        {
+          "name": "Lifetime",
+          "price": 750,
+          "createdAt": "2026-03-28T21:53:16.536Z"
+        }
+      ],
+      "product_1774734100951": [
+        {
+          "name": "Diario",
+          "price": 50,
+          "createdAt": "2026-03-28T21:53:35.180Z"
+        },
+        {
+          "name": "Semanal",
+          "price": 90,
+          "createdAt": "2026-03-28T21:53:46.533Z"
+        },
+        {
+          "name": "Mensal",
+          "price": 120,
+          "createdAt": "2026-03-28T21:53:53.220Z"
+        },
+        {
+          "name": "Lifetime",
+          "price": 400,
+          "createdAt": "2026-03-28T21:54:01.241Z"
+        }
+      ]
+    }
+  },
+  "productChannels": {
+    "1391194166935031908": {
+      "product_1774552722319": "1455956301275205873",
+      "product_1774657836610": "1455956301275205873"
+    }
+  },
+  "purchaseCategories": {
+    "1391194166935031908": "1391194168273141911"
+  },
+  "coupons": {
+    "1391194166935031908": [
+      {
+        "id": "coupon_1774579602054",
+        "name": "RADIANT",
+        "percentage": 10,
+        "minValue": 20,
+        "durationMs": 1800000,
+        "expiresAt": "2026-03-27T03:16:42.054Z",
+        "products": [],
+        "createdAt": "2026-03-27T02:46:42.054Z"
+      }
+    ]
+  },
+  "productShipping": {
+    "1391194166935031908": {
+      "product_1774552722319": {
+        "tutorial": "Feche o valorant",
+        "videoLink": "https://authmanager.vercel.app/",
+        "downloadLink": "https://authmanager.vercel.app/",
+        "createdAt": "2026-03-27T04:46:36.215Z"
+      },
+      "product_1774657836610": {
+        "tutorial": "Feche o valorant",
+        "videoLink": "https://authmanager.vercel.app/",
+        "downloadLink": "https://authmanager.vercel.app/",
+        "createdAt": "2026-03-28T13:21:24.904Z"
+      }
+    }
+  },
+  "productStock": {
+    "1391194166935031908": {}
+  },
+  "keyAuthStock": {
+    "1391194166935031908": {
+      "product_1774552722319": {
+        "sellerKey": "762b475f3c3b684ee87816b3869eb21f",
+        "appName": "AimbotElevate",
+        "generatorName": "Discord RadiantStore",
+        "createdAt": "2026-03-28T00:09:41.126Z"
+      },
+      "product_1774657836610": {
+        "sellerKey": "fa2bb6392199c5b214631527fde19ce0",
+        "appName": "ESP-Aim Elevate",
+        "generatorName": "Discord RadiantStore",
+        "createdAt": "2026-03-28T00:39:57.440Z"
+      },
+      "product_1774732210136": {
+        "sellerKey": "d64867162ea1b863c01c64f80c81aee0",
+        "appName": "Spofer",
+        "generatorName": "Discord Radiant Store",
+        "createdAt": "2026-03-28T22:17:25.362Z"
+      },
+      "product_1774734100951": {
+        "sellerKey": "9567b5286a15f3ca6d7ad7bbe0179516",
+        "appName": "Internal Elevate",
+        "generatorName": "Discord Radiant Store",
+        "createdAt": "2026-03-28T22:17:52.578Z"
+      }
+    }
+  },
+  "manualStock": {
+    "1391194166935031908": {
+      "product": {
+        "1774552722319_Diario": [
+          "XXXX"
+        ]
+      }
+    }
+  },
+  "stockPreference": {
+    "1391194166935031908": {
+      "product_1774657836610": "auto"
+    }
+  },
+  "purchaseTranscriptChannels": {
+    "1391194166935031908": "1455956301275205873"
+  },
+  "logsChannels": {
+    "1391194166935031908": "1455956301275205873"
+  },
+  "restoreCordRoles": {
+    "1391194166935031908": "1391198436216541305"
+  },
+  "clientRoles": {
+    "1391194166935031908": "1391194166956134441"
+  },
+  "efiCredentials": {
+    "1391194166935031908": {
+      "clientId": "Client_Id_5d4e29e87c3491b993385fb8f76809755a86b9d1",
+      "clientSecret": "Client_Secret_88683c03e42f72357dbb89dc9e8844becb3e19a5",
+      "pixKey": "a9461570-eceb-4dc0-8f3c-6504f4b65bc8"
+    }
+  },
+  "pendingPayments": {}
+}

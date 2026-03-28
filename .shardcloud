@@ -1,0 +1,6 @@
+DISPLAY_NAME=System Radiant
+MAIN=index.js
+MEMORY=256
+VERSION=recommended
+LANGUAGE=node
+APPID=af8ca08e-b739-4fc0-ae61-e513ae0300cd
