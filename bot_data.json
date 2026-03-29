@@ -1,25 +1,25 @@
 {
   "ticketChannels": {
-    "1391194166935031908": "1391194168142987408"
+    "1391194166935031908": "1391194167710847113"
   },
   "ticketOptions": {
     "1391194166935031908": [
       {
         "id": "ticket_1774465741564",
-        "label": "Suporte",
-        "description": "Suporte para utilização de softare ou erros.",
+        "label": "Atendimento Geral",
+        "description": "Suporte para dúvidas, orientações e solicitações.",
         "emoji": "🎫"
       },
       {
         "id": "ticket_1774465751185",
-        "label": "Revenda",
-        "description": "Revender nossos produtos.",
+        "label": "Compras",
+        "description": "Suporte ágil para produtos, pagamentos e finalizações.",
         "emoji": "🎫"
       },
       {
         "id": "ticket_1774471180582",
-        "label": "Compras",
-        "description": "Dúvidas sobre compras.",
+        "label": "Revenda",
+        "description": "Informações para revender nosso produto/software.",
         "emoji": "🎫"
       }
     ]
@@ -31,17 +31,17 @@
   },
   "ticketMessages": {
     "1391194166935031908": {
-      "description": "Seja bem-vindo(a) ao sistema de atendimento da Radiant Store\nDe segunda a sábado das 7h as 23h\nDomingo e feriado: sem horario determinado",
+      "description": "Bem-vindo(a) ao sistema de atendimento da Radiant Store.\n\nHorário de funcionamento:\n\nSegunda a sábado: das 7h às 22h\nDomingos e feriados: sem horário fixo",
       "title": "Atendimento Radiant Store"
     }
   },
   "defaultTicketChannels": {
-    "1391194166935031908": "1455956301275205873"
+    "1391194166935031908": "1391194167710847114"
   },
   "ticketVisuals": {
     "1391194166935031908": {
       "imageUrl": "https://i.imgur.com/e6APEN2.gif",
-      "color": "#FFFFFF",
+      "color": "#0099ff",
       "footer": "Radiant Store｜ B O T © 2025 - 2026"
     }
   },
@@ -73,29 +73,51 @@
       {
         "id": "product_1774732210136",
         "name": "Spoofer + Bypass TPM",
-        "description": "Spoofing\n```\n[+] Placa-mãe\n[+] Discos\n[+] BIOS\n[+] MAC\n[+] Windows\n[+] GUID\n[+] ID do Volume\n[+] Drivers USB\n```\nJogos suportados\n```\nEAC\nBattleEye\nVAC\nRicochet\nVanguard\nRiot Vanguard\n```\nCompatibilidade\n```\n[+] ASUS\n[+] GIGABYTE\n[+] ASROCK, BIOSTAR\n[+] MSI/MSI PRO\n[+] DELL\n[+] ALIENWARE",
+        "description": "Spoofing\n```\n[+] Placa-mãe\n[+] Discos\n[+] BIOS\n[+] MAC\n[+] Windows\n[+] GUID\n[+] ID do Volume\n[+] Drivers USB\n```\nJogos suportados\n```\nEAC\nBattleEye\nVAC\nRicochet\nVanguard\nRiot Vanguard\n```\nCompatibilidade\n```\n[+] ASUS\n[+] GIGABYTE\n[+] ASROCK, BIOSTAR\n[+] MSI/MSI PRO\n[+] DELL\n[+] ALIENWARE\n```",
         "imageUrl": "https://i.imgur.com/jRcGvKJ.jpeg",
-        "bannerUrl": "https://i.imgur.com/R2MmxpR.mp4",
+        "bannerUrl": "https://i.imgur.com/lodsYd5.gif",
         "footer": "Radiant Store｜ B O T © 2025 - 2026",
-        "createdAt": "2026-03-28T21:10:10.136Z"
+        "createdAt": "2026-03-28T21:10:10.136Z",
+        "updatedAt": "2026-03-29T03:47:38.671Z"
       },
       {
         "id": "product_1774733929329",
         "name": "Emulador VGK",
         "description": "Funciona para \n```\n[+] Valorant\n[+] League of Legends\n```\nFunções\n```\n[+] SEM TPM\n[+] SEM HVCI\n[+] SEM inicialização segura\n[+] Anti-Detecção\n[+] Emulador de Heartbeat \n```\nVantagens\n```\n[+] Não precisa reinstalar o Windows\n[+] Não precisa desinstalar o jogo\n[+] Não precisa desinstalar o Vanguard\n[+] Não é necessário spoofar/ jogue com 152 pois o vanguard está totalmente excluido do seu computador\n```\nCompatibilidade\n```\n[+] Windows 10/11\n```",
         "imageUrl": "https://i.imgur.com/XO6SpJs.jpeg",
-        "bannerUrl": "https://i.imgur.com/XfbG4YE.mp4",
+        "bannerUrl": "https://i.imgur.com/lodsYd5.gif",
         "footer": "Radiant Store｜ B O T © 2025 - 2026",
-        "createdAt": "2026-03-28T21:38:49.329Z"
+        "createdAt": "2026-03-28T21:38:49.329Z",
+        "updatedAt": "2026-03-29T03:29:46.462Z"
       },
       {
         "id": "product_1774734100951",
         "name": "Internal Elevate",
         "description": "Aimbot\n```\n[+] Suavização Personalizada\n[+] Campo de Visão Personalizado\n[+] Velocidade Personalizada\n[+] Atalhos Personalizados\n[+] Mira Silenciosa\n[+] Anti-Mira\n[+] Sem Recuo\n```\nVisuais do Jogador\n```\n[+] Caixa Personalizada (2D/Caixa de Canto)\n[+] Barra de Vida\n[+] Esqueleto\n[+] Linhas de Ajuste\n[+] Distância\n```\nMISC\n```\n[+] Alterador de Campo de Visão\n[+] Chams\n[+] Skin changer/Unlock All e chaveiros\n```\nCompatibilidade\n```\n[+] Todas as placas-mãe são compatíveis\n[+] Todas as CPUs são compatíveis\n[+] Todas as versões do Windows são compatíveis\n```\n**Necessário ter algum VGK Emulator para funcionar**",
         "imageUrl": "https://i.imgur.com/jeYMfDB.jpeg",
-        "bannerUrl": "https://i.imgur.com/XfbG4YE.mp4",
+        "bannerUrl": "https://i.imgur.com/lodsYd5.gif",
         "footer": "Radiant Store｜ B O T © 2025 - 2026",
-        "createdAt": "2026-03-28T21:41:40.951Z"
+        "createdAt": "2026-03-28T21:41:40.951Z",
+        "updatedAt": "2026-03-29T03:29:40.785Z"
+      },
+      {
+        "id": "product_1774756751488",
+        "name": "CS2 Elevate",
+        "description": "Aimbot\n```\n[+] Aimbot Smooth\n[+] Suave\n[+] Verificação visível\n```\nVisual\n```\n[+] Caixa do Jogador [2D/3D]\n[+] Esqueleto\n[+] Exibição da saúde do jogador\n[+] Nome do jogador\n[+] Distância\n[+] Snaplines\n[+] Brilho ESP\n```\nDIVERSOS\n```\n[+] Trocador de Fov\n```\nCompatibilidade\n```\n[+] Todas as placas-mãe são compatíveis\n[+] Todas as CPUs são compatíveis\n[+] Windows 10/11 (até a versão 23h2)\n```",
+        "imageUrl": "https://i.imgur.com/O7Eeh1S.jpeg",
+        "bannerUrl": "https://i.imgur.com/lodsYd5.gif",
+        "footer": "Radiant Store｜ B O T © 2025 - 2026",
+        "createdAt": "2026-03-29T03:59:11.488Z",
+        "updatedAt": "2026-03-29T04:20:02.173Z"
+      },
+      {
+        "id": "product_1774764922556",
+        "name": "Fortnite Elevate",
+        "description": "Visual\n```\n[+] ESP de Agente\n[+] ESP de Equipe\n[+] ESP de Arma\n[+] ESP de Munição\n[+] ESP de Vida\n[+] ESP de Distância\n[+] ESP de Esqueleto\n[+] ESP de Flechas Sem Alcance\nAimbot\n```\n[+] Aimbot FOV\n[+] Aimbot Suave\n[+] Aimbot Ósseo\n[+] Aimbot de Teclas\n```\nCompatibilidade\n```\n[+] Suporte para HVCI DESATIVADO\n[+] Todas as placas-mãe são compatíveis\n[+] Todas as CPUs são compatíveis\n[+] Windows 10/11 (até a versão 23h2)\n```",
+        "imageUrl": "https://i.imgur.com/CiKlZFQ.jpeg",
+        "bannerUrl": "https://i.imgur.com/lodsYd5.gif",
+        "footer": "Radiant Store｜ B O T © 2025 - 2026",
+        "createdAt": "2026-03-29T06:15:22.556Z"
       }
     ]
   },
@@ -197,13 +219,62 @@
           "price": 400,
           "createdAt": "2026-03-28T21:54:01.241Z"
         }
+      ],
+      "product_1774756751488": [
+        {
+          "name": "Diario",
+          "price": 6.5,
+          "createdAt": "2026-03-29T04:20:20.529Z"
+        },
+        {
+          "name": "Semanal",
+          "price": 15,
+          "createdAt": "2026-03-29T04:20:27.159Z"
+        },
+        {
+          "name": "Mensal",
+          "price": 30,
+          "createdAt": "2026-03-29T04:20:34.166Z"
+        },
+        {
+          "name": "Lifetime",
+          "price": 70,
+          "createdAt": "2026-03-29T04:20:42.065Z"
+        }
+      ],
+      "product_1774764922556": [
+        {
+          "name": "Diario",
+          "price": 30,
+          "createdAt": "2026-03-29T06:15:38.799Z"
+        },
+        {
+          "name": "Semanal",
+          "price": 65,
+          "createdAt": "2026-03-29T06:15:44.456Z"
+        },
+        {
+          "name": "Mensal",
+          "price": 100,
+          "createdAt": "2026-03-29T06:15:51.717Z"
+        },
+        {
+          "name": "Lifetime",
+          "price": 350,
+          "createdAt": "2026-03-29T06:15:58.989Z"
+        }
       ]
     }
   },
   "productChannels": {
     "1391194166935031908": {
-      "product_1774552722319": "1455956301275205873",
-      "product_1774657836610": "1455956301275205873"
+      "product_1774552722319": "1428933236314345492",
+      "product_1774657836610": "1391194167866294487",
+      "product_1774732210136": "1403226811026116710",
+      "product_1774733929329": "1484795925938442240",
+      "product_1774734100951": "1484795290929201162",
+      "product_1774756751488": "1406981437751693483",
+      "product_1774764922556": "1482080915340529665"
     }
   },
   "purchaseCategories": {
@@ -226,16 +297,46 @@
   "productShipping": {
     "1391194166935031908": {
       "product_1774552722319": {
-        "tutorial": "Feche o valorant",
-        "videoLink": "https://authmanager.vercel.app/",
+        "tutorial": "Instruções de instalação e configuração\n\n1. Baixe o arquivo em nosso site utilizando a key que foi enviada para você.\n\n2. Extraia a pasta utilizando a senha: 123.\n\n3. Abra o Gerenciador de Dispositivos (pressione Windows + X ou pesquise no menu iniciar).\n\n4. Acesse a opção \"Mouse e outros dispositivos apontadores\".\n\n5. Verifique quantos mouses estão listados.\n   - Caso haja mais de um, remova todos até restar apenas o seu mouse principal.\n   - Essa etapa é essencial para o funcionamento correto.\n\n6. No Windows, pesquise por \"Segurança do Windows\" e desative todas as proteções.\n\n7. Procure por \"Isolamento de núcleo\" no Windows e ative essa opção.\n   - Caso não encontre, procure um tutorial no YouTube.\n\n8. Instale os programas que vieram na pasta extraída.\n\n9. Instale o software da Logitech.\n   - Não atualize o software, pois isso pode impedir o funcionamento.\n\n10. Execute o software.\n\n11. Insira sua key quando solicitado.",
+        "videoLink": "https://www.youtube.com/watch?v=zWf-naLfugE",
         "downloadLink": "https://authmanager.vercel.app/",
-        "createdAt": "2026-03-27T04:46:36.215Z"
+        "updatedAt": "2026-03-29T03:11:17.228Z"
       },
       "product_1774657836610": {
-        "tutorial": "Feche o valorant",
-        "videoLink": "https://authmanager.vercel.app/",
+        "tutorial": "Instruções de instalação e configuração\n\n1. Baixe o arquivo em nosso site utilizando a key que foi enviada para você.\n\n2. Extraia a pasta utilizando a senha: 123.\n\n3. No Windows, pesquise por \"Segurança do Windows\" e desative todas as proteções.\n\n4. Procure por \"Isolamento de núcleo\" no Windows e ative essa opção.\n   - Caso não encontre, procure um tutorial no YouTube.\n\n5. Execute o software.\n\n6. Insira sua key quando solicitado.",
+        "videoLink": "https://www.youtube.com/watch?v=S6casKbjJh4",
         "downloadLink": "https://authmanager.vercel.app/",
-        "createdAt": "2026-03-28T13:21:24.904Z"
+        "updatedAt": "2026-03-29T03:12:30.724Z"
+      },
+      "product_1774732210136": {
+        "tutorial": "Instruções para formatação e configuração (BIOS + Loader)\n\n1. Download da ISO\nBaixe a ISO através do link abaixo:\nhttps://drive.google.com/file/d/1-0dYLwmlg3Gr93EWeKs8Qdwp2TYEY8G1/view\n\n2. Criação do pendrive bootável\n- Utilize o programa RUFUS.\n- Selecione a ISO baixada.\n- Crie o pendrive bootável normalmente.\n\n3. Formatação do sistema\n- Inicie o computador pelo pendrive.\n- Realize a formatação do Windows utilizando a ISO fornecida.\n\n4. Processo de FLASH na BIOS (OBRIGATÓRIO)\nApós a formatação, será necessário alterar a versão da BIOS.\n\n- Faça o FLASH da BIOS da sua placa-mãe.\n- Você pode:\n  - Atualizar para uma versão mais nova, ou\n  - Voltar para uma versão mais antiga\n- O importante é ALTERAR a versão atual.\n\nCaso não saiba como fazer:\n- Procure no YouTube: \"Como dar FLASH (nome da sua placa-mãe)\"\n- Você pode descobrir o modelo da sua placa-mãe usando o CPU-Z ou verificando drivers do seu PC.\n\n5. Configuração da BIOS\nApós realizar o FLASH:\n\n- Desative a opção TPM 2.0\n  (Caso seu computador não tenha essa opção, ignore esta etapa)\n\n6. Reinicialização\n- Reinicie o computador após as alterações.\n\n7. Utilização do Loader\n- Baixe o loader utilizando a key recebida no privado.\n- Abra o programa.\n- Insira sua key.\n- Clique na opção \"Spoofer\".\n\n8. Reinicialização automática\n- O computador irá reiniciar automaticamente após o processo.\n\n9. Instalação do jogo\n- Após reiniciar, instale o Valorant.\n- Ao iniciar o jogo, utilize a opção \"TPM Bypass\" antes de entrar.\n\n10. Verificação final\n- Siga todos os passos corretamente.\n- Caso os SERIAIS do seu computador não tenham sido alterados, entre em contato com o suporte.",
+        "videoLink": "",
+        "downloadLink": "https://authmanager.vercel.app/",
+        "createdAt": "2026-03-29T03:17:20.078Z"
+      },
+      "product_1774733929329": {
+        "tutorial": "Abra um ticket para receber!",
+        "videoLink": "",
+        "downloadLink": "https://authmanager.vercel.app/",
+        "createdAt": "2026-03-29T03:17:48.528Z"
+      },
+      "product_1774734100951": {
+        "tutorial": "Instruções de instalação e configuração\n\n1. Baixe o arquivo em nosso site utilizando a key que foi enviada para você.\n\n2. Extraia a pasta utilizando a senha: 123.\n\n3. No Windows, pesquise por \"Segurança do Windows\" e desative todas as proteções.\n\n4. Procure por \"Isolamento de núcleo\" no Windows e ative essa opção.\n   - Caso não encontre, procure um tutorial no YouTube.\n\n5. Instale os programas que vieram na pasta extraída.\n\n6. Execute o software.\n\n7. Insira sua key quando solicitado.\n\nLembrando que pra funcionar você precisa de um VGK EMULATOR conforme é informado no anúncio. Antes desse processo todo você deve estar no valorant com vgc já desativado",
+        "videoLink": "",
+        "downloadLink": "https://authmanager.vercel.app/",
+        "createdAt": "2026-03-29T03:19:08.699Z"
+      },
+      "product_1774756751488": {
+        "tutorial": "Baixe o arquivo no nosso site:\n\nExtraia o arquivo com a senha 123:\n\nE siga o resto do tutorial em vídeo.",
+        "videoLink": "https://youtu.be/w1dygfFl-TM",
+        "downloadLink": "https://authmanager.vercel.app/",
+        "createdAt": "2026-03-29T04:52:11.449Z"
+      },
+      "product_1774764922556": {
+        "tutorial": "Baixe o aplicativo através do nosso download enviado no seu privado junto a sua key:\nSenha para extrair é: 123 \nSiga o tutorial a baixo:",
+        "videoLink": "https://youtu.be/7w03UaQ5s6g",
+        "downloadLink": "https://authmanager.vercel.app/",
+        "createdAt": "2026-03-29T06:18:48.460Z"
       }
     }
   },
@@ -267,6 +368,18 @@
         "appName": "Internal Elevate",
         "generatorName": "Discord Radiant Store",
         "createdAt": "2026-03-28T22:17:52.578Z"
+      },
+      "product_1774756751488": {
+        "sellerKey": "367b88832725b6c07512afe7a1a21a84",
+        "appName": "CS2 Elevate",
+        "generatorName": "Discord Radiant Store",
+        "createdAt": "2026-03-29T04:43:18.244Z"
+      },
+      "product_1774764922556": {
+        "sellerKey": "eb951662788c66b85db9c65bc9c343e3",
+        "appName": "FortniteElevate",
+        "generatorName": "Discord Radiant Store",
+        "createdAt": "2026-03-29T06:17:31.072Z"
       }
     }
   },
@@ -275,20 +388,41 @@
       "product": {
         "1774552722319_Diario": [
           "XXXX"
+        ],
+        "1774733929329_Semanal": [
+          "Abra um ticket para receber!",
+          "Abra um ticket para receber!",
+          "Abra um ticket para receber!",
+          "Abra um ticket para receber!"
+        ],
+        "1774733929329_Mensal": [
+          "Abra um ticket para receber!",
+          "Abra um ticket para receber!",
+          "Abra um ticket para receber!",
+          "Abra um ticket para receber!"
+        ],
+        "1774733929329_Lifetime": [
+          "Abra um ticket para receber!",
+          "Abra um ticket para receber!",
+          "Abra um ticket para receber!",
+          "Abra um ticket para receber!"
         ]
       }
     }
   },
   "stockPreference": {
     "1391194166935031908": {
-      "product_1774657836610": "auto"
+      "product_1774657836610": "auto",
+      "product_1774732210136": "auto",
+      "product_1774756751488": "auto",
+      "product_1774764922556": "auto"
     }
   },
   "purchaseTranscriptChannels": {
-    "1391194166935031908": "1455956301275205873"
+    "1391194166935031908": "1391194168142987413"
   },
   "logsChannels": {
-    "1391194166935031908": "1455956301275205873"
+    "1391194166935031908": "1391194168142987409"
   },
   "restoreCordRoles": {
     "1391194166935031908": "1391198436216541305"

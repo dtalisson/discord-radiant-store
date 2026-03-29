@@ -4279,10 +4279,10 @@ client.on('interactionCreate', async (interaction) => {
                         }
 
                         if (plans.length > 0) {
-                            const planOptions = plans.map(plan => ({
+                            const planOptions = plans.map((plan, index) => ({
                                 label: plan.name,
                                 description: `Valor: R$ ${plan.price.toFixed(2)}`,
-                                value: `buy_${sendNowProductId}_${plan.name}`
+                                value: `buy_${sendNowProductId}_${plan.id || index}`
                             }));
 
                             const selectMenu = new StringSelectMenuBuilder()
